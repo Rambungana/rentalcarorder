@@ -1,0 +1,51 @@
+<style>
+  
+
+
+body{
+  background-color: #f1f1f1;
+}
+
+
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+input[type=radio], input[type=submit], input[type=reset] {
+  
+  padding: 15px;
+  margin: 5px 80px;
+  
+}
+
+.div1 {
+  width: 300px;
+  height: 50px;
+  border: 1px solid border;
+}
+
+
+
+.disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+</style>
